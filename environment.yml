@@ -1,0 +1,14 @@
+name: pangy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab>=1.2
+  - matplotlib
+  - ipympl
+  - nodejs
+  - pandas
+  - geopandas
+  - tqdm
+  - dask
+  
