@@ -1,5 +1,6 @@
 name: pangy
 channels:
+  - conda-forge/label/metpy_rc
   - conda-forge
   - defaults
 dependencies:
@@ -11,4 +12,6 @@ dependencies:
   - geopandas
   - tqdm
   - dask
+  - metpy
+  - siphon
   
