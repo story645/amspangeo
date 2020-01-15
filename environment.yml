@@ -14,4 +14,6 @@ dependencies:
   - dask
   - metpy
   - siphon
+  - xarray
+  - netcdf4
   
